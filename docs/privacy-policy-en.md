@@ -88,4 +88,4 @@ If this policy changes materially, we will update this page and the "Last update
 
 ## Contact Us
 
-If you have questions about this privacy policy, contact us at [hahadevstudio@gmail.com](mailto:hahadevstudio@gmail.com).
+If you have questions about this privacy policy, contact us at [hahadevstudio@gmail.com](mailto:hahadevstudio@gmail.com). You can also visit the [Collagora Support](./support.html) page.

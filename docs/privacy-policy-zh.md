@@ -88,4 +88,4 @@ Collagora 面向一般用户，并非专为儿童设计。我们不会故意收�
 
 ## 联系我们
 
-如果你对本隐私政策有任何疑问，请发送邮件至 [hahadevstudio@gmail.com](mailto:hahadevstudio@gmail.com)。
+如果你对本隐私政策有任何疑问，请发送邮件至 [hahadevstudio@gmail.com](mailto:hahadevstudio@gmail.com)，也可以访问 [Collagora 支持](./support.html)页面。

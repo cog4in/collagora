@@ -1,12 +1,13 @@
-# Collagora Public Privacy Policy
+# Collagora Public Privacy Policy and Support
 
-This repository contains the public privacy policy pages for Collagora. It contains no app source code.
+This repository contains the public privacy policy and support pages for Collagora. It contains no app source code.
 
 Public URLs (GitHub Pages):
 
 - Main page: `https://cog4in.github.io/collagora/`
 - English privacy policy: `https://cog4in.github.io/collagora/docs/privacy-policy-en`
 - Chinese privacy policy: `https://cog4in.github.io/collagora/docs/privacy-policy-zh`
+- Support page: `https://cog4in.github.io/collagora/docs/support.html` (`?lang=en` or `?lang=zh` selects the language)
 
 Publication requirements:
 
